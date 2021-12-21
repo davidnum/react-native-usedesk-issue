@@ -1,6 +1,9 @@
 # Проблема
 - ### При использовании версии SDK 2.2.3 все работает как и ожидается - открывается чат
+<img src="https://github.com/davidnum/react-native-usedesk-issue/blob/main/videos/correct.gif" width="200" />
+
 - ### При использовании версии SDK 2.3.0 некорректно открыается база знаний с темным экраном
+<img src="https://github.com/davidnum/react-native-usedesk-issue/blob/main/videos/notcorrect.gif" width="200" />
 <br/>
 
 # Установка
